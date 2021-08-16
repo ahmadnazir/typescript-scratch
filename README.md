@@ -4,7 +4,7 @@
 npx tsc -w
 ```
 
-## .. and also watch
+or
 
 ```
 npx tsc-watch --project . --onSuccess 'ts-node ./dist/index.js'
